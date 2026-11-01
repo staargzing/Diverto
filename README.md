@@ -1,4 +1,4 @@
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f814756e-2df0-400f-9c5d-5a656d5c97a2" /><img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0138a3cd-d48f-4607-b8ea-fd46fb5fe058" /><img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bd00f8e1-f557-48a6-a83f-7dacc5895eda" /># ☀️ Diverto — Zero-Waste Edge-AI Solar Energy Monitoring
+# ☀️ Diverto — Zero-Waste Edge-AI Solar Energy Monitoring
 
 > **"Empowering Sustainable Energy Efficiency with Real-Time Edge-AI Diversion & Minimalist Glassmorphism UI."**
 
@@ -16,6 +16,7 @@
   - **Portable Battery Storage**: Charging progress animation showing reserve power capacity (%).
 - **🎨 Glassmorphism Light Mode UI**: Designed using clean, translucent frosted-glass aesthetics native to **Jetpack Compose (Material 3)**.
 - **🌤️ Dynamic Weather Header**: Real-time localized weather status badge directly on the main header.
+
 ---
 
 ## 🛠️ Tech Stack & Architecture
